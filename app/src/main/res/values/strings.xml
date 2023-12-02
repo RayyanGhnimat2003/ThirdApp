@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My thirdApplication</string>
+    <string name="enter_your_fav_programming_language">enter your fav language</string>
+    <string-array name="languages">
+
+        <item>java</item>
+        <item>Python</item>
+        <item>Html</item>
+        <item>c++</item>
+
+
+
+
+    </string-array>
+</resources>
